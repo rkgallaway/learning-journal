@@ -14,3 +14,10 @@ Hi All!  My name is Ryan, I like to code and teach others to do the same!  find 
 > Markdown is a light weight markup language.  great for authoring readable, functional code on the fly.
 - `#` is a level one heading
 - `###` is a level three heading
+
+### Bulleted list one way
+- item one
+- item two
+- item three
+  - but wait!
+  - you can nest!
