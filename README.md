@@ -1,2 +1,2 @@
-# learning-journal
-Ryan Gallaway's Learning Journal
+# Ryan Gallaway's Learning Journal
+
