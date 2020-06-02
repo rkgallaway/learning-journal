@@ -10,4 +10,7 @@ Hi All!  My name is Ryan, I like to code and teach others to do the same!  find 
 1. ask questions - move forward
 1. celebrate all successes, even if its someone else's
 
-
+## Markdown Notes
+> Markdown is a light weight markup language.  great for authoring readable, functional code on the fly.
+- `#` is a level one heading
+- `###` is a level three heading
